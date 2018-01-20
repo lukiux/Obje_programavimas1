@@ -1,0 +1,6 @@
+c:\users\z585\documents\visual studio 2012\Projects\U6-1\bin\Debug\U6-1.exe.config
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\U6-1\bin\Debug\U6-1.exe
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\U6-1\bin\Debug\U6-1.pdb
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\U6-1\obj\Debug\U6-1.csprojResolveAssemblyReference.cache
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\U6-1\obj\Debug\U6-1.exe
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\U6-1\obj\Debug\U6-1.pdb

@@ -1,0 +1,6 @@
+c:\users\z585\documents\visual studio 2012\Projects\U3-1\bin\Debug\U3-1.exe.config
+c:\users\z585\documents\visual studio 2012\Projects\U3-1\obj\Debug\U3-1.csprojResolveAssemblyReference.cache
+c:\users\z585\documents\visual studio 2012\Projects\U3-1\bin\Debug\U3-1.exe
+c:\users\z585\documents\visual studio 2012\Projects\U3-1\bin\Debug\U3-1.pdb
+c:\users\z585\documents\visual studio 2012\Projects\U3-1\obj\Debug\U3-1.exe
+c:\users\z585\documents\visual studio 2012\Projects\U3-1\obj\Debug\U3-1.pdb

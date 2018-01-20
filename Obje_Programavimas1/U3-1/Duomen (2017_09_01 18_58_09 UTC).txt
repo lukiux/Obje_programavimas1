@@ -1,0 +1,7 @@
+Guzauskas Lukas
+5
+Obelis;    33.5; 54;
+Kriause;   35.8; 47;
+Slyva;     28.1; 45;
+Vysnia;    30.6; 29;
+Apelsinas; 34.6; 40;

@@ -1,0 +1,51 @@
+Sodo savininkas:Guzauskas Lukas
+|-----------------------|---------------|-------------|
+|    Pavadinimas        |   Aukstis(m)  |    Amzius   |
+|                       |               |             |
+|-----------------------|---------------|-------------|
+| Obelis                |   33.50       |   54        |
+| Kriause               |   35.80       |   47        |
+| Slyva                 |   28.10       |   45        |
+| Vysnia                |   30.60       |   29        |
+| Apelsinas             |   34.60       |   40        |
+-------------------------------------------------------------------
+Auksciausias vaismedis: Kriause  35.80m
+Seniausias vaismedis: Obelis   54
+
+Sodo savininkas:Valanciunas Jonas
+|-----------------------|---------------|-------------|
+|    Pavadinimas        |   Aukstis(m)  |    Amzius   |
+|                       |               |             |
+|-----------------------|---------------|-------------|
+| Obelis                |   37.60       |   59        |
+| Kriause               |   45.20       |   63        |
+| Slyva                 |   29.40       |   42        |
+| Vysnia                |   39.00       |   37        |
+| Apelsinas             |   40.30       |   55        |
+| Apelsinas             |   28.40       |   34        |
+-------------------------------------------------------------------
+Vaismedzio sarasas: Atrinktu aismedziu sarasas:
+|-----------------------|---------------|
+|     Pavadinimas       |   Aukstis(m)  |
+|-----------------------|---------------|
+| Kriause               |   35.80       |
+| Kriause               |   45.20       |
+-----------------------------------------------------------
+Visu auksciausias vaismedis Valanciunas Jonas sode:  Kriause  45.20m
+
+k
+|-----------------------|--------------------------------|
+|     Pavadinimas       |   Augimo greitis per metus(m)  |
+|-----------------------|--------------------------------|
+| Obelis                |               0.62             |
+| Kriause               |               0.76             |
+| Slyva                 |               0.62             |
+| Vysnia                |               1.06             |
+| Apelsinas             |               0.87             |
+| Obelis                |               0.64             |
+| Kriause               |               0.72             |
+| Slyva                 |               0.70             |
+| Vysnia                |               1.05             |
+| Apelsinas             |               0.73             |
+| Apelsinas             |               0.84             |
+-----------------------------------------------------------

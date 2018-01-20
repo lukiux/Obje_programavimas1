@@ -1,0 +1,12 @@
+--------------------------------------
+| Ilgiausias zodis | Pradzia | Ilgis |
+--------------------------------------
+| pasikiškiakopūsteliajant |      52 |    24 |
+| gramatiką        |       9 |     9 |
+| pasikiškiakopūsteliajant |       0 |    24 |
+| nacionalinės     |      70 |    12 |
+| vartojamomis     |      12 |    12 |
+| pasikiškiakopūsteliajant |      25 |    24 |
+| tarptautiniai    |      59 |    13 |
+| pasikiškiakopūsteliajant |      26 |    24 |
+--------------------------------------

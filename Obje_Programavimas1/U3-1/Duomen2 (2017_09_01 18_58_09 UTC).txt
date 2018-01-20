@@ -1,0 +1,8 @@
+Valanciunas Jonas
+6
+Obelis;    37.6; 59;
+Kriause;   45.2; 63;
+Slyva;     29.4; 42;
+Vysnia;    39.0; 37;
+Apelsinas; 40.3; 55;
+Apelsinas; 28.4; 34;

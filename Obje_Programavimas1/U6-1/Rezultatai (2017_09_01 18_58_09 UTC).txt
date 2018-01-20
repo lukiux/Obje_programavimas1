@@ -1,0 +1,91 @@
+       Pradiniai duomenys
+
+ Krepsinio klubo pavadinimas: "Zalgiris"
+ Klubo miestas: Kaunas
+ Zalgirio komandoje yra 10 zaideju.
+ Zalgirio komanda zaide 5 rungtynes.
+
+       Zalgirio komandos sarasas (pelnyti taskai = 0):
+
+----------------------------------------------------------------------------------------------------
+ Nr. Pavarde        Vardas     Gimimo metai    Ugis(cm)    Zaidimo pozicija     Taskas
+----------------------------------------------------------------------------------------------------
+  1. Jatvokas        Robertas        1975        210           5                  0  
+  2. Jankunas        Paulius         1984        205           4                  0  
+  3. Ulanovas        Edgaras         1992        203           3                  0  
+  4. Seibutis        Rolandas        1982        198           2                  0  
+  5. Kalnietis       Mantas          1989        195           1                  0  
+  6. Hanlan          Olivier         1990        190           1                  0  
+  7. Pocius          Martynas        1987        198           2                  0  
+  8. Lekavicius      Lukas           1994        180           1                  0  
+  9. Motum           Brock           1990        204           4                  0  
+  10. Vougioukas      Ian             1982        215           5                  0  
+----------------------------------------------------------------------------------------------------
+
+Krepsininkai zaide per 5 rungtynes.
+
+   1.    5  10   7  12  17   7  11   3  14  12 
+   2.    2  11   5   4  12  10   9   4  13  12 
+   3.    0  15   8   6  16   3  13   5  10  16 
+   4.    7  10  13  11   8   9   7   4  15   7 
+   5.    2  17  10   8  15   9   7   8  10  14 
+
+       Rezultatai
+
+       Zalgirio komandos sarasas ir zaideju pelnyti taskai:
+
+----------------------------------------------------------------------------------------------------
+ Nr. Pavarde        Vardas     Gimimo metai    Ugis(cm)    Zaidimo pozicija     Taskas
+----------------------------------------------------------------------------------------------------
+  1. Jatvokas        Robertas        1975        210           5                 16  
+  2. Jankunas        Paulius         1984        205           4                 63  
+  3. Ulanovas        Edgaras         1992        203           3                 43  
+  4. Seibutis        Rolandas        1982        198           2                 41  
+  5. Kalnietis       Mantas          1989        195           1                 68  
+  6. Hanlan          Olivier         1990        190           1                 38  
+  7. Pocius          Martynas        1987        198           2                 47  
+  8. Lekavicius      Lukas           1994        180           1                 24  
+  9. Motum           Brock           1990        204           4                 62  
+  10. Vougioukas      Ian             1982        215           5                 61  
+----------------------------------------------------------------------------------------------------
+
+
+ Rezultatyviausias komandos krepsininkas yra: Kalnietis Mantas   ,  68 pelnyti taskai
+
+1 pozicijos rezultatyviausias krepsininkas: Kalnietis Mantas  ,  68 taskai
+2 pozicijos rezultatyviausias krepsininkas: Pocius Martynas  ,  47 taskai
+3 pozicijos rezultatyviausias krepsininkas: Ulanovas Edgaras  ,  43 taskai
+4 pozicijos rezultatyviausias krepsininkas: Jankunas Paulius  ,  63 taskai
+5 pozicijos rezultatyviausias krepsininkas: Vougioukas Ian  ,  61 taskai
+
+1-5 pozicijo rezultatyviausias krepsininkai is viso:  282
+
+Pasalinti du zaidejai, maziausiai rezultatyvus:
+
+----------------------------------------------------------------------------------------------------
+ Nr. Pavarde        Vardas     Gimimo metai    Ugis(cm)    Zaidimo pozicija     Taskas
+----------------------------------------------------------------------------------------------------
+  1. Jankunas        Paulius         1984        205           4                 63  
+  2. Ulanovas        Edgaras         1992        203           3                 43  
+  3. Seibutis        Rolandas        1982        198           2                 41  
+  4. Kalnietis       Mantas          1989        195           1                 68  
+  5. Hanlan          Olivier         1990        190           1                 38  
+  6. Pocius          Martynas        1987        198           2                 47  
+  7. Motum           Brock           1990        204           4                 62  
+  8. Vougioukas      Ian             1982        215           5                 61  
+----------------------------------------------------------------------------------------------------
+
+
+Zalgirio klubo komandos visu rezultatyviausiu:  463 tasku
+
+1 pozicijos rezultatyviausias krepsininkas: Kalnietis Mantas  ,  68 taskai
+1 pozicijos rezultatyviausias krepsininkas: Hanlan Olivier  ,  38 taskai
+1 pozicijos rezultatyviausias krepsininkas: Lekavicius Lukas  ,  24 taskai
+2 pozicijos rezultatyviausias krepsininkas: Seibutis Rolandas  ,  41 taskai
+2 pozicijos rezultatyviausias krepsininkas: Pocius Martynas  ,  47 taskai
+3 pozicijos rezultatyviausias krepsininkas: Ulanovas Edgaras  ,  43 taskai
+4 pozicijos rezultatyviausias krepsininkas: Jankunas Paulius  ,  63 taskai
+4 pozicijos rezultatyviausias krepsininkas: Motum Brock  ,  62 taskai
+5 pozicijos rezultatyviausias krepsininkas: Jatvokas Robertas  ,  16 taskai
+5 pozicijos rezultatyviausias krepsininkas: Vougioukas Ian  ,  61 taskai
+

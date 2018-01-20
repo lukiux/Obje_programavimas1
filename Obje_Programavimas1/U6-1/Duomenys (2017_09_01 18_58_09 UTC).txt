@@ -1,0 +1,16 @@
+"Zalgiris";Kaunas; 10; 5;
+Jatvokas;Robertas; 1975; 210; 5;
+Jankunas;Paulius; 1984; 205; 4;
+Ulanovas;Edgaras; 1992; 203; 3;
+Seibutis;Rolandas; 1982; 198; 2;
+Kalnietis;Mantas; 1989; 195; 1;
+Hanlan;Olivier; 1990; 190; 1;
+Pocius;Martynas; 1987; 198; 2;
+Lekavicius;Lukas; 1994; 180; 1;
+Motum;Brock; 1990; 204; 4;
+Vougioukas;Ian; 1982; 215; 5;
+5 10 7 12 17 7 11 3 14 12
+2 11 5 4 12 10 9 4 13 12
+0 15 8 6 16 3 13 5 10 16
+7 10 13 11 8 9 7 4 15 7
+2 17 10 8 15 9 7 8 10 14
