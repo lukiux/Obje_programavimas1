@@ -1,0 +1,6 @@
+c:\users\z585\documents\visual studio 2012\Projects\3klausimai\bin\Debug\3klausimai.exe.config
+c:\users\z585\documents\visual studio 2012\Projects\3klausimai\bin\Debug\3klausimai.exe
+c:\users\z585\documents\visual studio 2012\Projects\3klausimai\bin\Debug\3klausimai.pdb
+c:\users\z585\documents\visual studio 2012\Projects\3klausimai\obj\Debug\3klausimai.csprojResolveAssemblyReference.cache
+c:\users\z585\documents\visual studio 2012\Projects\3klausimai\obj\Debug\3klausimai.exe
+c:\users\z585\documents\visual studio 2012\Projects\3klausimai\obj\Debug\3klausimai.pdb

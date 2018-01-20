@@ -1,0 +1,6 @@
+c:\users\z585\documents\visual studio 2012\Projects\1klausimas\bin\Debug\1klausimas.exe.config
+c:\users\z585\documents\visual studio 2012\Projects\1klausimas\bin\Debug\1klausimas.exe
+c:\users\z585\documents\visual studio 2012\Projects\1klausimas\bin\Debug\1klausimas.pdb
+c:\users\z585\documents\visual studio 2012\Projects\1klausimas\obj\Debug\1klausimas.csprojResolveAssemblyReference.cache
+c:\users\z585\documents\visual studio 2012\Projects\1klausimas\obj\Debug\1klausimas.exe
+c:\users\z585\documents\visual studio 2012\Projects\1klausimas\obj\Debug\1klausimas.pdb
